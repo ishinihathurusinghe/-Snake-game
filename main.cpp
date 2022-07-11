@@ -55,7 +55,7 @@ int main()
     f.x=10;
     f.y=10; 
     
-    while (window.isOpen())
+     while (window.isOpen())
     {
         float time = clock.getElapsedTime().asSeconds();
         clock.restart();
