@@ -1,6 +1,6 @@
 #include <SFML/Graphics.hpp>
 #include <time.h>
-using namespace sf
+using namespace sf;
 
 
 int N=30,M=20;
