@@ -75,7 +75,7 @@ int main()
 
         if (timer>delay) {timer=0; Tick();}
 
-   ////// draw  ///////
+  
     window.clear();
 
     for (int i=0; i<N; i++) 
